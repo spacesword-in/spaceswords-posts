@@ -1,6 +1,7 @@
 # SpaceSword-Posts
 
-This repository contains all the blog posts that are published on [http://spacesword.in](http://spacesword.in)
+[![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg)](#) [![Shippable](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)](#)
+[![npm](https://img.shields.io/npm/l/express.svg)](#)
 
 ## Getting Started
 
